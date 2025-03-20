@@ -1,0 +1,29 @@
+Core domain concepts
+    1. User Type - Traveler
+    2. User Type - Family Member
+    3. User Link - 1:1 linkage between any 2 users
+    4. User Group - Collection of users (user:group is 1:m)
+    5. User Dietary Preferences
+    6. User Hotel Preferences and Affiliations
+    7. User Airline Preferences and Affiliations
+    8. User Airline Communication Preferences
+    9. Restaurant
+    10. Hotel
+    11. Flight
+    12. Rail
+    13. Bus
+    14. Rental Car
+    15. Ferry
+    16. Cruise
+    17. Tours
+    18. Activities
+    19. Points of Interest
+    20. Plan
+    31. Itinerary - finalized Plan
+    32. Bookings - Paid for it (identify sub-types)
+    32. Resevations - Pay later (identify sub-types)
+    33. Single Day Trip - no hotel or flight (everything else could apply)
+    34. Multi Day Road Trip - no flight, may be rental Car (everything else could apply)
+    35. Multi Day Trip - has everything (can be single or multi city, multi country)
+    36. Estimated cost
+    37. Booking Cost
